@@ -1,4 +1,4 @@
-# 15 Ongoing Supervised Learning Projects (**Expected Completion Date:** June 2025)🚀
+# 15 Ongoing Supervised Learning Projects (**Expected Completion Date:** July 2025)🚀
 
 
 This repo contains 15 supervised learning projects, split into two groups: **Regression** and **Classification**. The **Regression Projects** focus on predicting continuous values, while the **Classification Projects** involve categorizing data. 🧠
