@@ -1,7 +1,12 @@
-# 15 Ongoing Supervised Learning Projects (**Expected Completion Date:** July 2025)🚀
+# Supervised Learning Projects 🚀
 
 
-This repo contains 15 supervised learning projects, split into two groups: **Regression** and **Classification**. The **Regression Projects** focus on predicting continuous values, while the **Classification Projects** involve categorizing data. 🧠
+This repo contains supervised learning projects, split into two groups: **Regression** and **Classification**. The **Regression Projects** focus on predicting continuous values, while the **Classification Projects** involve categorizing data. 🧠
+
+> 💻 **Want to Learn Machine Learning by Doing?**  
+> 🎯 Explore the projects, find open issues, or add your own!  
+> 🧠 Contribute to real ML projects — fix bugs, improve models, or add new datasets — and grow while learning together.
+
 
 ## Projects Overview 🛠️
 
@@ -28,6 +33,8 @@ These projects aim to predict continuous values using various regression techniq
 
 7. **🏠 Airbnb Rental Price Prediction**  
    - Predict rental prices for Airbnb properties based on location, size, and amenities.
+  
+   more......
 
 ### Classification Projects 📊
 These projects focus on classifying data into categories using algorithms like logistic regression and decision trees.
@@ -55,6 +62,8 @@ These projects focus on classifying data into categories using algorithms like l
 
 8. **🍄 Mushroom Edibility Classification**  
    - Classify mushrooms as edible or poisonous based on their attributes.
+
+   more.....
 
 ## Tools & Libraries 🧰
 
